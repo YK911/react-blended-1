@@ -6,3 +6,4 @@ export * from './Statistics/Statistics';
 export * from './StatisticsItem/StatisticsItem';
 export * from './ForbesList/ForbesList';
 export * from './CryptoHistory/CryptoHistory';
+export * from './ForbesListItem/ForbesListItem';
